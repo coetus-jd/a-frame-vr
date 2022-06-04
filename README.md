@@ -9,6 +9,8 @@ A simple prototype to test the A-Frame framework.
   </a>
 </p>
 
+> Play on: https://coetus-jd.github.io/a-frame-vr/
+
 ## :eyes: Overview
 <p align="center">
   <img src="./docs/home.png" width="1000px" height="auto"/> <br/><br/>
