@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", main);
 
 function main() {
-    console.log("rodei");
+    console.log("run");
     AFRAME.registerComponent("hello-world", {
         init: function() {
             console.log("Hello, World!");
